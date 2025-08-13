@@ -1,32 +1,39 @@
+---
 name: Bug Report
-
 about: Report a problem to help us improve
-
 title: ''
-
 labels: bug
-
 assignees: ''
+---
 
+## Description
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Please provide a clear and concise description of the bug.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. 
-2. 
-3. 
+## Steps to Reproduce
 
-**Expected behavior**
-What you expected to happen.
+1.  
+2.  
+3.  
 
-**Screenshots**
-If applicable, add screenshots to help explain.
+## Expected Behavior
 
-**Environment (please complete the following information):**
- - OS: 
- - Version: 
+What did you expect to happen?
 
-**Additional context**
+## Actual Behavior
+
+What actually happened?
+
+## Screenshots
+
+If applicable, add screenshots to help explain the issue.
+
+## Environment
+
+- OS:  
+- Version:  
+- Browser (if applicable):  
+
+## Additional Context
+
 Add any other context about the problem here.
