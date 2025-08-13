@@ -1,8 +1,11 @@
-
 name: Bug Report
+
 about: Report a problem to help us improve
+
 title: ''
+
 labels: bug
+
 assignees: ''
 
 
