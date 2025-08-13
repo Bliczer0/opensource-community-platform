@@ -1,11 +1,10 @@
----
+
 name: Bug Report
 about: Report a problem to help us improve
 title: ''
 labels: bug
 assignees: ''
 
----
 
 **Describe the bug**
 A clear and concise description of what the bug is.
