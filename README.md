@@ -14,7 +14,7 @@ Welcome to the OpenSource Community Platform — a free, privacy-first, open-sou
 To get involved:
 1. Check out the [contribution guidelines](CONTRIBUTING.md)  
 2. Review open issues labeled `good first issue` for easy tasks  
-3. Join our community chat on Discord: [Invite Link]  
+3. Join our community chat on Discord: [https://discord.gg/dpvk35QPDK]  
 
 ## How to Contribute
 We welcome contributions of all kinds — code, documentation, design, and community support. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
